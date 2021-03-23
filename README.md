@@ -1,22 +1,22 @@
 
-# [Capacitor-iOS-IDFA-App-Tracking](https://github.com/migtam628/capacitor-ios-app-tracking) 
+# [Capacitor-iOS-IDFA-App-Tracking](https://github.com/Mindcurv/capacitor-ios-app-tracking.git) 
 
 Capacitor-IDFA-iOS-App-Tracking is a native AppTrackingTransparency implementation for iOS 14. Now you can use this package as a [Ionic Capacitor](https://capacitor.ionicframework.com) Plugin in your App.
 
 <!-- Badges -->
-<a href="https://npmjs.com/package/capacitor-ios-app-tracking">
-  <img src="https://badgen.net/npm/v/capacitor-ios-app-tracking">
+<a href="https://npmjs.com/package/capacitor-idfa-ios-app-tracking">
+  <img src="https://badgen.net/npm/v/capacitor-idfa-ios-app-tracking">
+</a>
+<a href="https://npmjs.com/package/capacitor-idfa-ios-app-tracking">
+  <img src="https://badgen.net/npm/dt/capacitor-idfa-ios-app-tracking">
 </a>
 <a href="https://npmjs.com/package/capacitor-ios-app-tracking">
-  <img src="https://badgen.net/npm/dt/capacitor-ios-app-tracking">
-</a>
-<a href="https://npmjs.com/package/capacitor-ios-app-tracking">
-  <img src="https://badgen.net/npm/license/capacitor-ios-app-tracking">
+  <img src="https://badgen.net/npm/license/capacitor-idfa-ios-app-tracking">
 </a>
 
 ## Release Note:
 
-### v0.1.1
+### v1.0.0
 - Implemented iOS 14 IDFA AppTrackingTransparency.
 
 ## Supported Platform:
@@ -25,8 +25,6 @@ Capacitor-IDFA-iOS-App-Tracking is a native AppTrackingTransparency implementati
 ### Screenshots
 |  |  |  |  |
 |:-----------------|:------------------:|:------------------:|:------------------:|
-| **iOS** | ![](https://iwatchfreetv.live/IMG_2748.PNG) | ![](https://iwatchfreetv.live/IMG_2749.PNG) | ![](https://iwatchfreetv.live/IMG_2750.PNG) 
-
 
 <!--
 ## Other Plugins:
