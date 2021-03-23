@@ -22,19 +22,6 @@ Capacitor-IDFA-iOS-App-Tracking is a native AppTrackingTransparency implementati
 ## Supported Platform:
 - [x] iOS
 
-### Screenshots
-|  |  |  |  |
-|:-----------------|:------------------:|:------------------:|:------------------:|
-
-<!--
-## Other Plugins:
-| Plugins                                             | Android | iOS | Electron | PWA |
-| :-------------------------------------------------- | :------ | :-- | :------- | :-- |
-| [AdMob Native](https://github.com/migtam628/capacitor-admob-native) | ✅      |✅  | ❌       | ❌  |
--->
-
-
-
 ## Supported methods
 | Name              |
 | :---------------- |
@@ -46,7 +33,7 @@ Capacitor-IDFA-iOS-App-Tracking is a native AppTrackingTransparency implementati
 Use **Capacitor-IDFA-iOS-App-Tracking** plugins in your app.
 
 ```console
- npm install --save capacitor-ios-app-tracking
+ npm install --save capacitor-idfa-ios-app-tracking
  ionic cap update
 ```
 
@@ -105,7 +92,6 @@ interface Response {
 ```typescript
 type Status = 'authorized' | 'denied' | 'unrequested' | 'restricted' 
 ```
-
 
 ## License
 
