@@ -1,6 +1,6 @@
 {
   "name": "capacitor-ios-app-tracking",
-  "version": "0.1.1",
+  "version": "1.0.0",
   "description": "App AD Tracking for iOS 14.",
   "main": "dist/esm/index.js",
   "types": "dist/esm/index.d.ts",
@@ -38,9 +38,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/migtam628/capacitor-ios-app-tracking.git"
+    "url": "https://github.com/Mindcurv/capacitor-ios-app-tracking.git"
   },
   "bugs": {
-    "url": "https://github.com/migtam628/capacitor-ios-app-tracking.git/issues"
+    "url": "https://github.com/Mindcurv/capacitor-ios-app-tracking/issues"
   }
 }
