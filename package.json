@@ -24,7 +24,7 @@
   "files": [
     "dist/",
     "ios/",
-    "CapacitorIosAppTracking.podspec"
+    "CapacitorIdfaIosAppTracking.podspec"
   ],
   "keywords": [
     "capacitor",
@@ -38,9 +38,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Mindcurv/capacitor-ios-app-tracking.git"
+    "url": "https://github.com/Mindcurv/capacitor-idfa-ios-app-tracking.git"
   },
   "bugs": {
-    "url": "https://github.com/Mindcurv/capacitor-ios-app-tracking.git/issues"
+    "url": "https://github.com/Mindcurv/capacitor-idfa-ios-app-tracking.git/issues"
   }
 }

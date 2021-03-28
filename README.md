@@ -1,5 +1,5 @@
 
-# [Capacitor-iOS-IDFA-App-Tracking](https://github.com/Mindcurv/capacitor-ios-app-tracking.git) 
+# [Capacitor-iOS-IDFA-App-Tracking](https://github.com/Mindcurv/capacitor-idfa-ios-app-tracking.git) 
 
 Capacitor-IDFA-iOS-App-Tracking is a native AppTrackingTransparency implementation for iOS 14. Now you can use this package as a [Ionic Capacitor](https://capacitor.ionicframework.com) Plugin in your App.
 
@@ -10,7 +10,7 @@ Capacitor-IDFA-iOS-App-Tracking is a native AppTrackingTransparency implementati
 <a href="https://npmjs.com/package/capacitor-idfa-ios-app-tracking">
   <img src="https://badgen.net/npm/dt/capacitor-idfa-ios-app-tracking">
 </a>
-<a href="https://npmjs.com/package/capacitor-ios-app-tracking">
+<a href="https://www.npmjs.com/package/capacitor-idfa-ios-app-tracking">
   <img src="https://badgen.net/npm/license/capacitor-idfa-ios-app-tracking">
 </a>
 
@@ -53,7 +53,7 @@ Open your **App/App/Info.plist** file and add this `plist value` line at the rig
 ```typescript
 import React, { useEffect } from "react"
 import { Plugins } from "@capacitor/core";
-import { Response } from 'capacitor-ios-app-tracking'
+import { Response } from 'capacitor-idfa-ios-app-tracking'
 
 const { IOSAppTracking } = Plugins;
 
