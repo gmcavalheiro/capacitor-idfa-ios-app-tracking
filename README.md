@@ -16,7 +16,7 @@ Capacitor-IDFA-iOS-App-Tracking is a native AppTrackingTransparency implementati
 
 ## Release Note:
 
-### v1.0.0
+### v1.0.1
 - Implemented iOS 14 IDFA AppTrackingTransparency.
 
 ## Supported Platform:
